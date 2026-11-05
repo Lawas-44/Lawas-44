@@ -1,4 +1,4 @@
-# Hola, soy Luis 👋
+# Hola, soy Luis 
 
 Estudiante de **ASIR** (Administración de Sistemas Informáticos en Red). Me gusta montar laboratorios, romperlos y aprender a arreglarlos. Aquí subo mis prácticas y proyectos de sistemas, redes y bases de datos.
 
