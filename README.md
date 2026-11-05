@@ -2,7 +2,7 @@
 
 Estudiante de **ASIR** (Administración de Sistemas Informáticos en Red). Me gusta montar laboratorios, romperlos y aprender a arreglarlos. Aquí subo mis prácticas y proyectos de sistemas, redes y bases de datos.
 
-## 🛠️ Con qué trabajo
+## Con qué trabajo
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
@@ -14,7 +14,7 @@ Estudiante de **ASIR** (Administración de Sistemas Informáticos en Red). Me gu
 
 Además de lo anterior, he trabajado con **Active Directory y GPOs**, **Samba**, **DHCP** y conceptos de **criptografía y alta disponibilidad**.
 
-## 📂 Proyectos destacados
+## Proyectos destacados
 
 | Proyecto | Descripción |
 |---|---|
@@ -22,7 +22,7 @@ Además de lo anterior, he trabajado con **Active Directory y GPOs**, **Samba**,
 | [PostgreSQL-Server](https://github.com/Lawas-44/PostgreSQL-Server) | Instalación, configuración y control de acceso de PostgreSQL con Docker. |
 | [wp_restaurante](https://github.com/Lawas-44/wp_restaurante) | Web en WordPress para un restaurante sin gluten. |
 
-## 🎯 Ahora mismo estoy
+## Ahora mismo estoy
 
 - Practicando administración de sistemas Linux y Windows Server en laboratorios.
 - Diseñando redes en AWS (VPC, subredes públicas y privadas, NAT).
